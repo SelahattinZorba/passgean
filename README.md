@@ -8,6 +8,7 @@
 - [Description](#description)
 - [How to Use](#how-to-use)
 - [Requirements](#requirements)
+- [Todos](#todos)
 
 ---
 
@@ -29,3 +30,9 @@ python3 passwordgenerator.py
 python3.8 or above.\
 passwordgen.txt -> for your brute force list.\
 randompassgen.txt -> for storing created passwords.
+
+---
+
+## Todos
+
+encrypting the created passwords before storing into txt file.
