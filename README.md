@@ -27,5 +27,5 @@ python3 passwordgenerator.py
 ## Requirements
 
 python3.8 or above.\
-passwordgen.txt -> for storing created passwords.\
-randompassgen.txt -> for your brute force list.
+passwordgen.txt -> for your brute force list.\
+randompassgen.txt -> for storing created passwords.
