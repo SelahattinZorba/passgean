@@ -13,7 +13,7 @@
 
 ## Description
 
-passgean is a simple password crandomizer(create-randomize), it could write your created password in a txt file.
+passgean is a simple password crandomizer(create-randomize), it could write your created password into a txt file.
 If password generates a bruteforce vulnerable password, user can delete it, if user uploads a bruteforce file directory.
 
 ---
