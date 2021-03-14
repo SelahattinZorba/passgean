@@ -6,8 +6,8 @@
 
 ### Table of Contents
 
--[Description](#description)
--[How to Use](#how-to-use)
+- [Description](#description)
+- [How to Use](#how-to-use)
 
 ---
 
