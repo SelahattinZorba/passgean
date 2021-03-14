@@ -1,5 +1,4 @@
-![passgean]
-
+# passgean
 >A simple password creator.
 
 ---
